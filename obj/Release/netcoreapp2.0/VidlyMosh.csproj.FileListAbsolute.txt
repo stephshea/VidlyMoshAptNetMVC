@@ -1,0 +1,10 @@
+/Users/owner/Projects/VidlyMosh/VidlyMosh/bin/Release/netcoreapp2.0/VidlyMosh.deps.json
+/Users/owner/Projects/VidlyMosh/VidlyMosh/bin/Release/netcoreapp2.0/VidlyMosh.runtimeconfig.json
+/Users/owner/Projects/VidlyMosh/VidlyMosh/bin/Release/netcoreapp2.0/VidlyMosh.runtimeconfig.dev.json
+/Users/owner/Projects/VidlyMosh/VidlyMosh/bin/Release/netcoreapp2.0/VidlyMosh.dll
+/Users/owner/Projects/VidlyMosh/VidlyMosh/bin/Release/netcoreapp2.0/VidlyMosh.pdb
+/Users/owner/Projects/VidlyMosh/VidlyMosh/obj/Release/netcoreapp2.0/VidlyMosh.csproj.CoreCompileInputs.cache
+/Users/owner/Projects/VidlyMosh/VidlyMosh/obj/Release/netcoreapp2.0/VidlyMosh.AssemblyInfoInputs.cache
+/Users/owner/Projects/VidlyMosh/VidlyMosh/obj/Release/netcoreapp2.0/VidlyMosh.AssemblyInfo.cs
+/Users/owner/Projects/VidlyMosh/VidlyMosh/obj/Release/netcoreapp2.0/VidlyMosh.dll
+/Users/owner/Projects/VidlyMosh/VidlyMosh/obj/Release/netcoreapp2.0/VidlyMosh.pdb

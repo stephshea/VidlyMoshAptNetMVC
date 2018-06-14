@@ -1,0 +1,3 @@
+/Users/owner/Projects/VidlyMosh/VidlyMosh/obj/Debug/netcoreapp2.0/VidlyMosh.csproj.CoreCompileInputs.cache
+/Users/owner/Projects/VidlyMosh/VidlyMosh/obj/Debug/netcoreapp2.0/VidlyMosh.AssemblyInfoInputs.cache
+/Users/owner/Projects/VidlyMosh/VidlyMosh/obj/Debug/netcoreapp2.0/VidlyMosh.AssemblyInfo.cs
