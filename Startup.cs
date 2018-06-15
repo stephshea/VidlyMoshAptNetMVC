@@ -40,11 +40,14 @@ namespace VidlyMosh
 
             app.UseMvc(routes =>
             {
-                //custom routes go before default route
-                routes.MapRoute(
-                    "MoviesByReleaseDate",
-                    "movies/released/{year}/{month}",
-                    new { Controllers = "Movies", Action = "ByReleaseDate"});
+                routes.MapMvcAttributeRoutes();
+
+                //custom routes above default
+                //routes.MapRoute(
+                    //"MoviesByReleaseDate",
+                    //"movies/released/{year}/{month}",
+                    //new { Controllers = "Movies", Action = "ByReleaseDate" },
+                    //new { year = @"\d{4}", month = @"\d{2}" });
 
                 //default route
                 routes.MapRoute(
